@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "210768026878",
+    "project_id": "lynkapp-b8bfe",
+    "storage_bucket": "lynkapp-b8bfe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210768026878:android:79c861e725ad6e2fec59af",
+        "android_client_info": {
+          "package_name": "com.lynkit.dmc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210768026878-gbufnevs1doudccjatcgh54ceptcihqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lynkit.dmc",
+            "certificate_hash": "99f3bf1b89e40a21b35e69a1832f584e5bcbbed9"
+          }
+        },
+        {
+          "client_id": "210768026878-jkuctvon3va1pmiu3ctgcd1pbnhih9b7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvaW9AMKHHDCdhZt6Jtfew9FsbFsFa3zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210768026878-jkuctvon3va1pmiu3ctgcd1pbnhih9b7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "210768026878-5lvb286653df58ke01o6cg226mggl75q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lynkit.dmc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
